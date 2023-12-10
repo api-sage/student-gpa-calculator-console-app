@@ -1,6 +1,5 @@
 com\mycompany\gpacalculator\CourseCreditUnit.class
 com\mycompany\gpacalculator\StudentGPAService.class
 com\mycompany\gpacalculator\StudentScoreRecord.class
-GradePoints.class
 com\mycompany\gpacalculator\StudentCourseRecord.class
 com\mycompany\gpacalculator\GPACalculator.class

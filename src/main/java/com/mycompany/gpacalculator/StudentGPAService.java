@@ -162,6 +162,8 @@ public class StudentGPAService {
         }
         
         studentGPA = ((double)studentTotalQualityPoints/(double)studentTotalUnits);
+        String formattedGPA = String.format("%.2f", studentGPA);
+        studentGPA = Double.parseDouble(formattedGPA);
         
         return studentGPA;
     }

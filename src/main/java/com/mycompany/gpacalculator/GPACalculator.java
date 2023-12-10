@@ -32,6 +32,5 @@ public class GPACalculator {
         System.out.printf("| %s                          |           %d          |     %s     |           %d        |         %d          |\n", newStudent.course5, studentCreditUnit.creditUnit5, studentGrades[4], studentGradeUnit[4], studentQualityPoints[4]);
         
         System.out.printf("Your GPA is = %s to 2 decimal places", studentGPA);
-        
     }
 }
